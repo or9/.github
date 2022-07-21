@@ -2,8 +2,8 @@
 
 ```mermaid
 graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+    Apples-->Bananas;
+    Apples-->Coolaid;
+    Bananas-->Drink;
+    Coolaid-->Drink;
 ```
